@@ -1,4 +1,6 @@
 # Heteroskedasticity-Robust Inference in Bayesian Linear Regression via the Generalized Method of Moments
+Lyu, W. (2026). Heteroskedasticity-robust inference in Bayesian linear regression via the generalized method of moments. _Psychological Methods_. https://doi.org/10.1037/met0000835
+
 ### Stan models
 - **nlm.stan**  
   Bayesian linear regression with a normal likelihood, assuming homoskedastic errors.
